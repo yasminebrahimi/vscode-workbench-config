@@ -1,4 +1,6 @@
 {
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
   "workbench.iconTheme": "material-icon-theme",
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -36,7 +38,7 @@
   "update.showReleaseNotes": false,
   "makefile.configureOnOpen": true,
   "json.schemas": [
-  
+
   
   ],
   "files.autoSave": "afterDelay",
@@ -64,5 +66,11 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
-  "git.openRepositoryInParentFolders": "never"
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.settings.applyToAllProfiles": [
+
+  ],
+  "settingsSync.ignoredExtensions": [
+
+  ]
 }
