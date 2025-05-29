@@ -1,0 +1,68 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "reactSnippets.settings.prettierEnabled": true,
+  "editor.tabSize": 2,
+  "terminal.integrated.env.osx": {},
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "git.ignoreRebaseWarning": true,
+  "window.zoomLevel": 1,
+  "console-ninja.featureSet": "Community",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "git.path": "/opt/homebrew/bin/git",
+  "workbench.startupEditor": "none",
+  "prisma.showPrismaDataPlatformNotification": false,
+  "update.showReleaseNotes": false,
+  "makefile.configureOnOpen": true,
+  "json.schemas": [
+  
+  
+  ],
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "liveServer.settings.NoBrowser": false,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe %URL%",
+  "rsp-ui.enableStartServerOnActivation": [
+    {
+      "id": "redhat.vscode-community-server-connector",
+      "name": "Community Server Connector",
+      "startOnActivation": true
+    }
+  ],
+  //
+  "terminal.integrated.profiles.windows": {
+    "Command Prompt": {
+      "path": "C:\\Windows\\System32\\cmd.exe"
+    },
+    "PowerShell": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "git.openRepositoryInParentFolders": "never"
+}
